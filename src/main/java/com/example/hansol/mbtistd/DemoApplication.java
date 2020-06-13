@@ -1,4 +1,4 @@
-package com.example.hansol.login_test;
+package com.example.hansol.mbtistd;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;

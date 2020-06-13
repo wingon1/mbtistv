@@ -1,4 +1,4 @@
-package com.example.hansol.login_test.parma;
+package com.example.hansol.mbtistd.parma;
 
 public class googleUser {
     
